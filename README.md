@@ -11,8 +11,9 @@ I am _Colleen Cipriano_. I'm a 4th-year undergraduate student at the <a href="ht
 - :video_game: A gamer of League of Legends during my free time, but will never miss a T1 game ever. 
 - 👽️ Huge fanatic of documentaries and historical drama. My favorites from Netflix are Secrets of the Saqqara Tomb and Vikings Valhalla! 
 
-## Get in touch <img src="https://github.com/colleenaira/colleenaira/blob/main//Assets/Hi.gif" width="22px">
-Chat with me about anything and everything! 💬
+
+## Get in touch  <img align="center" alt="shiblob-photo" src="https://github.com/colleenaira/colleenaira/blob/main/Assets/shiblob-photo.png" width="40"/>
+Chat with me about anything and everything! <img src="https://github.com/colleenaira/colleenaira/blob/main//Assets/Hi.gif" width="20px">
 - LinkedIn: https://www.linkedin.com/in/colleencipriano/
 - Personal Website: _(under construction)_
 - Fashion/Lifestyle: https://www.instagram.com/colleencipriano/
