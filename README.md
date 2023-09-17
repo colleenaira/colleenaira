@@ -15,7 +15,7 @@ I am _Colleen Cipriano_. I'm a 4th-year undergraduate student at the <a href="ht
 ## Get in touch  <img align="center" alt="shiblob-photo" src="https://github.com/colleenaira/colleenaira/blob/main/Assets/shiblob-photo.png" width="40"/>
 Chat with me about anything and everything! <img src="https://github.com/colleenaira/colleenaira/blob/main//Assets/Hi.gif" width="20px">
 - LinkedIn: https://www.linkedin.com/in/colleencipriano/
-- Personal Website: _(under construction)_
+- Personal Website: https://colleenaira.github.io/
 - Fashion/Lifestyle: https://www.instagram.com/colleencipriano/
 
 <img src="https://github.com/colleenaira/colleenaira/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
